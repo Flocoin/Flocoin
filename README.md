@@ -59,6 +59,8 @@ These tests can be run (if the [test dependencies](/test) are installed) with: `
 
 ###Docker Install
 
+edit the flocoin.conf file before starting the installation
+
 docker pull flocoin/flocoin
 
 or directly from the file
