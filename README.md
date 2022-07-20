@@ -5,7 +5,7 @@ Flocoin Core integration/staging tree
 
 https://flocoin.org
 
-[![Flocoin Explorer](https://explorer.flocoin.tk
+[Flocoin Explorer] (https://explorer.flocoin.tk)
 
 What is Flocoin?
 ----------------
