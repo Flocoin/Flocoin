@@ -1,8 +1,6 @@
 Flocoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/flocoin-project/flocoin.svg?branch=master)](https://travis-ci.org/flocoin-project/flocoin)
-
 https://flocoin.org
 
 [Flocoin Explorer] (https://explorer.flocoin.tk)
