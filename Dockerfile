@@ -26,7 +26,7 @@ RUN apt-get install -y libzmq3-dev
 
 RUN apt-get install -y libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libprotobuf-dev protobuf-compiler
 
-RUN apt-get -y install libqrencode-dev
+RUN apt-get install -y libqrencode-dev
 
 #build flocoin source
 RUN ./autogen.sh
