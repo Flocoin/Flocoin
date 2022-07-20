@@ -57,7 +57,7 @@ There are also [regression and integration tests](/test), written
 in Python, that are run automatically on the build server.
 These tests can be run (if the [test dependencies](/test) are installed) with: `test/functional/test_runner.py`
 
-###Docker Install
+### Docker Install
 
 edit the flocoin.conf file before starting the installation
 
